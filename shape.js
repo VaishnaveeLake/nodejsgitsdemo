@@ -7,4 +7,7 @@ class Shape{
 }
 module.exports = Shape
 
-//Add changes to the local branch add-more-instructions
+//shape is considerd as module
+
+
+

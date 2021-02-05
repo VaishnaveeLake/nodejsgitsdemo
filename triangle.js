@@ -12,3 +12,4 @@ class Triangle extends Shape{
     }
 }
 module.exports = Triangle
+//Rectangle........
